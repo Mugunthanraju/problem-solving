@@ -18,7 +18,7 @@ class Node:
 
 # Stack class creation 
 
-lass Stack:
+class Stack:
   def __init__(self, limit=1000):
     self.top_item = None
     self.size = 0
