@@ -1,6 +1,6 @@
 # DSA-Python
 
-## Learning - Learning the concepts deeply
+## Learning - Learning the concepts deeply :)
 
-*It's a continous journey*
+*It's a continous journey.*
 
