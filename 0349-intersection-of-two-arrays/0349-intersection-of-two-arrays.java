@@ -20,9 +20,10 @@ class Solution {
 
         int[] result = new int[set.size()];
         int location = 0;
-        for (int num : set) {
+
+        for (int num : set) 
             result[location++] = num;
-        }
+        
 
         return result;
     }
