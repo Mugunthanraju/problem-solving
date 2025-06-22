@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
