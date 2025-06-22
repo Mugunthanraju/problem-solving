@@ -18,6 +18,7 @@ class Solution {
                 int right = n - 1;
 
                 while (left < right) {
+                    // Don't cover the mathematical ops with parenthesis while coverting to big data type
                     long currentSum = (long) nums[i] + nums[j] + nums[left] + nums[right];
 
                     if (currentSum < target) {
