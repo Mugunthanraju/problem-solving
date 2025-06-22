@@ -17,6 +17,7 @@
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,10 +33,12 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
+| [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mugunthanraju/problem-solving/tree/master/0011-container-with-most-water) |
+| [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 | [0016-3sum-closest](https://github.com/Mugunthanraju/problem-solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
