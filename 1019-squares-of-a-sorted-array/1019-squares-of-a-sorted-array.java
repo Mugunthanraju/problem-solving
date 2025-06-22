@@ -16,7 +16,6 @@ class Solution {
                 right--;
             }
         }
-        System.gc();
         return result;
     }
 }
