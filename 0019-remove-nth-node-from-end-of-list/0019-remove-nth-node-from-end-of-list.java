@@ -23,7 +23,8 @@ class Solution {
         if (fast == null) return head.next;
 
         while (fast.next != null) {
-            // Get into a position before target node.
+            // Get fast into a last node
+            // Get slow into a position before target node.
             slow = slow.next;
             fast = fast.next;
         }
@@ -31,6 +32,6 @@ class Solution {
         // Remove target node from Linked List
         slow.next = slow.next.next;
 
-        return head;
+        return head; // TC : O(N) & SC : O(1)
     }
 }
