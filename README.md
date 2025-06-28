@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Mugunthanraju/problem-solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Mugunthanraju/problem-solving/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -30,6 +31,7 @@
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mugunthanraju/problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Mugunthanraju/problem-solving/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Mugunthanraju/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0202-happy-number) |
