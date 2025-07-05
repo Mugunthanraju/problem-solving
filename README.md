@@ -17,6 +17,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0443-string-compression](https://github.com/Mugunthanraju/problem-solving/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Mugunthanraju/problem-solving/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mugunthanraju/problem-solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -63,6 +65,7 @@
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
