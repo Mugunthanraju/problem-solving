@@ -14,7 +14,6 @@ class Solution {
                 unique.put(nums[i], i);
             }
         }
-        System.gc();
         return false;
     }
 }
