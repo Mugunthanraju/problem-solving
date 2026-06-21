@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mugunthanraju/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Mugunthanraju/problem-solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Mugunthanraju/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@
 | [0016-3sum-closest](https://github.com/Mugunthanraju/problem-solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/master/0941-sort-array-by-parity) |
