@@ -1,18 +1,29 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>();
+        /*
+            We store each number and its index in HashMap
+            Iterate through the array, check if the complement (target - current number) is already in the map
+        */
 
-        for (int i = 0; i < nums.length; i++) {
-            int num = nums[i];
-            int diff = target - num;
+        // Define HashMap
+        Map<Integer, Integer> complementIndex = new HashMap<>();
+        // Define other required variables
+        int index, diff;
 
-            if (map.containsKey(diff)) {
-                return new int[] {map.get(diff), i};
-            } else {
-                map.put(num, i);
-            }
+        // Interate through array
+        for (index = 0; index < nums.length; index++) {
+            // find differences
+            diff = target - nums[index];
+
+            // Check diff in Map, if there is then return indeces
+            if (complementIndex.containsKey(diff))
+                return new int[] {complementIndex.get(diff), index};
+            else 
+                // put curr number and index in map as a key-value
+                complementIndex.put(nums[index], index);
         }
 
         return new int[2];
+
     }
 }
