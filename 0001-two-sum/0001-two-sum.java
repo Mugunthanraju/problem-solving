@@ -6,21 +6,21 @@ class Solution {
         */
 
         // Define HashMap
-        Map<Integer, Integer> complementIndex = new HashMap<>();
+        Map<Integer, Integer> numMap = new HashMap<>();
         // Define other required variables
-        int index, diff;
+        int index, complement;
 
         // Interate through array
         for (index = 0; index < nums.length; index++) {
             // find differences
-            diff = target - nums[index];
+            complement = target - nums[index];
 
             // Check diff in Map, if there is then return indeces
-            if (complementIndex.containsKey(diff))
-                return new int[] {complementIndex.get(diff), index};
+            if (numMap.containsKey(complement))
+                return new int[] {numMap.get(complement), index};
             else 
                 // put curr number and index in map as a key-value
-                complementIndex.put(nums[index], index);
+                numMap.put(nums[index], index);
         }
 
         return new int[2];
