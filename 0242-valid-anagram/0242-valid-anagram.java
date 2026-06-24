@@ -26,7 +26,7 @@ class Solution {
         s.codePoints().forEach(scp -> 
             frequency.put(scp, frequency.getOrDefault(scp, 0) + 1)
         );
-            // decrement the frequency
+        // decrement the frequency
         t.codePoints().forEach(tcp -> 
             frequency.put(tcp, frequency.getOrDefault(tcp, 0) - 1)
         );
