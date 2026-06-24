@@ -26,9 +26,9 @@ class Solution:
         frequency = dict() # Store frequency of Unicode characters
         for i in range(len(s)):
             # increment the frequency
-            frequency[s[i]] = frequency.get(s[i], 0) + 1
+            frequency[ord(s[i])] = frequency.get(ord(s[i]), 0) + 1
             # decrement the frequency
-            frequency[t[i]] = frequency.get(t[i], 0) - 1
+            frequency[ord(t[i])] = frequency.get(ord(t[i]), 0) - 1
         
         for val in frequency.values():
             # val will be zero if both str has same char freq
