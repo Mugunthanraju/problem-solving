@@ -1,35 +1,31 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        // if (s.length() != t.length())
-        //     return false;
-
-        // Map<Integer, Integer> frequency = new HashMap<>();
-
-        // s.codePoints().forEach(cp -> frequency.put(cp, frequency.getOrDefault(cp, 0) + 1));
         
-        // int newCount;
+        // /* If string contains only lowercase english letters */
+        // int[] alphabet = new int[26];
+        // for (int i = 0; i < s.length(); i++) alphabet[s.charAt(i) - 'a']++;
+        // for (int i = 0; i < t.length(); i++) alphabet[t.charAt(i) - 'a']--;
+        // for (int i : alphabet) if (i != 0) return false;
 
-        // int[] tCodePoints = t.codePoints().toArray();
-        // for (int c : tCodePoints) {
-        //     if (!frequency.containsKey(c))
-        //         return false;
-            
-        //     newCount = frequency.get(c) - 1;
+        /* 
+            Follow up : if the inputs contain Unicode characters 
+        */
 
-        //     if (newCount < 0) {
-        //         return false;
-        //     } else if (newCount == 0) {
-        //         frequency.remove(c);
-        //     } else {
-        //         frequency.put(c, newCount);
-        //     }
-        // }
+        if (s.length() != t.length())
+            return false;
 
-        int[] alphabet = new int[26];
-        for (int i = 0; i < s.length(); i++) alphabet[s.charAt(i) - 'a']++;
-        for (int i = 0; i < t.length(); i++) alphabet[t.charAt(i) - 'a']--;
-        for (int i : alphabet) if (i != 0) return false;
+        Map<Character, Integer> frequency = new HashMap<>();
 
-        return true;
+        for (int index = 0; index < s.length(); index++) {
+            frequency.put(s.charAt(index), frequency.getOrDefault(s.charAt(index), 0) + 1);
+            frequency.put(t.charAt(index), frequency.getOrDefault(t.charAt(index), 0) - 1);
+        }
+
+        for(char c : frequency.keySet()) {
+            if (frequency.get(c) != 0)
+                return false;
+        }
+
+        return true; // This is same for any case
     }
 }
