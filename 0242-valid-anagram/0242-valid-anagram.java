@@ -21,17 +21,19 @@ class Solution {
         */
 
         // Store frequency of Unicode characters
-        Map<Character, Integer> frequency = new HashMap<>();
-        for (int index = 0; index < s.length(); index++) {
-            // increment the frequency
-            frequency.put(s.charAt(index), frequency.getOrDefault(s.charAt(index), 0) + 1);
+        Map<Integer, Integer> frequency = new HashMap<>();
+        // increment the frequency
+        s.codePoints().forEach(scp -> 
+            frequency.put(scp, frequency.getOrDefault(scp, 0) + 1)
+        );
             // decrement the frequency
-            frequency.put(t.charAt(index), frequency.getOrDefault(t.charAt(index), 0) - 1);
-        }
+        t.codePoints().forEach(tcp -> 
+            frequency.put(tcp, frequency.getOrDefault(tcp, 0) - 1)
+        );
 
-        for(char c : frequency.keySet()) {
+        for(var c : frequency.values()) {
             // val will be zero if both str has same char freq
-            if (frequency.get(c) != 0)
+            if (c != 0)
                 return false;
         }
 
