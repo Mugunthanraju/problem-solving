@@ -29,6 +29,7 @@
 | [0202-happy-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mugunthanraju/problem-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/master/0941-sort-array-by-parity) |
@@ -81,6 +83,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mugunthanraju/problem-solving/tree/master/0443-string-compression) |
 ## Dynamic Programming
