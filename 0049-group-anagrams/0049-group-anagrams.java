@@ -13,12 +13,14 @@ class Solution {
 
           int[] count = new int[26];
             
-            // Count character frequencies
+            
+            /*
+              - Count character frequencies
+              - Build a string signature from the frequency array
+            */
             for (char c : word.toCharArray()) {
                 count[c - 'a']++;
             }
-            
-            // Build a string signature from the frequency array
             StringBuilder sb = new StringBuilder();
             for (int val : count) {
                 sb.append('#');
