@@ -8,9 +8,7 @@ class Solution {
           Arrays.sort(chars);
           String keyword = new String(chars);
 
-          if (!groups.containsKey(keyword)) {
-            groups.put(keyword, new ArrayList<>());
-          }
+          groups.putIfAbsent(keyword, new ArrayList<>());
           groups.get(keyword).add(word);
         }
 
