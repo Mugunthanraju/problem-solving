@@ -5,7 +5,7 @@ class Solution:
 
         for word in strs:
           # sorting the chars in str and then convert char list into str
-          keyword = "".join(sorted(word))
+          keyword = tuple(sorted(word))
           groups[keyword].append(word)
         
         return list(groups.values())
