@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mugunthanraju/problem-solving/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mugunthanraju/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Mugunthanraju/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
@@ -67,6 +69,7 @@
 | [0015-3sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mugunthanraju/problem-solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
@@ -83,6 +86,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mugunthanraju/problem-solving/tree/master/0443-string-compression) |
