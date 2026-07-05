@@ -1,7 +1,7 @@
 class Solution {
 	public int maxArea(int[] heights) {
 		int maxiArea = 0, left = 0, right = heights.length - 1;
-        int breadth, minHeight, area;
+    int breadth, minHeight, area;
 		
 		while (left < right) {
 			breadth = right - left;
