@@ -6,8 +6,8 @@ class Solution:
       while left < right:
         breadth = right - left
         current_height = min(height[left], height[right])
-        temp_maxi = breadth * current_height
-        maxi_area = max(temp_maxi, maxi_area)
+        area = breadth * current_height
+        maxi_area = max(area, maxi_area)
           
         if height[left] > height[right]:
           right -= 1
