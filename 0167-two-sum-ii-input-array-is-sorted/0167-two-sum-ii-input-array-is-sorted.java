@@ -1,23 +1,15 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int left = 0;
-        int right = numbers.length - 1;
-        int[] result = {-1, -1};
+        int left = 0, right = numbers.length - 1, total;
 
         while (left < right) {
-            int sum = numbers[left] + numbers[right];
-
-            if (target > sum)
-                left++;
-            else if (target < sum)
-                right--;
-            else {
-                result[0] = left + 1;
-                result[1] = right + 1;
-                break;
-            }
+          total = numbers[left] + numbers[right];
+          if (total == target) {
+            return new int[] {left + 1, right + 1};
+          }
+          else if (total > target) right--;
+          else left++;
         }
-
-        return result;
+        return new int[] {0, 0};
     }
 }
