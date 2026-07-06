@@ -1,7 +1,7 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         size = len(nums)
-        closer = 200000
+        closer = nums[0] + nums[1] + nums[2] 
         nums.sort()
 
         for index in range(size - 1):
