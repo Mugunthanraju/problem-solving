@@ -1,10 +1,10 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         size = len(nums)
-        closer = nums[0] + nums[1] + nums[2] 
         nums.sort()
+        closer = nums[0] + nums[1] + nums[2] 
 
-        for index in range(size - 1):
+        for index in range(size - 2):
 
           if index > 0 and nums[index - 1] == nums[index]:
             continue
