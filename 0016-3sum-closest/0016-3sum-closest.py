@@ -4,17 +4,17 @@ class Solution:
         closer = 200000
         nums.sort()
 
-        for i in range(size - 1):
+        for index in range(size - 1):
 
-          if i > 0 and nums[i - 1] == nums[i]:
+          if index > 0 and nums[index - 1] == nums[index]:
             continue
           
-          left = i + 1
+          left = index + 1
           right = size - 1
 
           while left < right:
 
-            total = nums[i] + nums[left] + nums[right]
+            total = nums[index] + nums[left] + nums[right]
             abs_current_diff = abs(total - target)
             abs_closer_diff = abs(closer - target)
 
