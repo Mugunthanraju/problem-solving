@@ -1,11 +1,10 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        left = right = 1
+        left = 1
 
-        while right < len(nums):
+        for right in range(1, len(nums)):
           if nums[left - 1] != nums[right]:
             nums[left] = nums[right]
             left += 1
-          right += 1
         
         return left
