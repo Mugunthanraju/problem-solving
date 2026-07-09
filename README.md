@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/Mugunthanraju/problem-solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/main/0881-boats-to-save-people/) | Medium |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -54,6 +55,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mugunthanraju/problem-solving/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/main/0881-boats-to-save-people/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/Mugunthanraju/problem-solving/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/master/0941-sort-array-by-parity) |
@@ -64,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mugunthanraju/problem-solving/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/main/0881-boats-to-save-people/) | Medium |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -76,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/main/0881-boats-to-save-people/) | Medium |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
