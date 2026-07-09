@@ -5,8 +5,10 @@ class Solution {
         Arrays.sort(people);
 
         while (left <= right) {
+          
           if (people[left] + people[right] <= limit)
             left++;
+
           right--;
           boat++;
         }
