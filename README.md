@@ -64,12 +64,14 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mugunthanraju/problem-solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2938-separate-black-and-white-balls](https://github.com/Mugunthanraju/problem-solving/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mugunthanraju/problem-solving/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/main/0881-boats-to-save-people/) | Medium |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
+| [2938-separate-black-and-white-balls](https://github.com/Mugunthanraju/problem-solving/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@
 | [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mugunthanraju/problem-solving/tree/master/0443-string-compression) |
+| [2938-separate-black-and-white-balls](https://github.com/Mugunthanraju/problem-solving/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
