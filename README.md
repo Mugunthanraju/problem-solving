@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mugunthanraju/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Mugunthanraju/problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mugunthanraju/problem-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Mugunthanraju/problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Mugunthanraju/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
@@ -126,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mugunthanraju/problem-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mugunthanraju/problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
