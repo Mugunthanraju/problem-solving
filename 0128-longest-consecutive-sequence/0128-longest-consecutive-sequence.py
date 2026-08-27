@@ -5,7 +5,7 @@ class Solution:
         longest = 0
 
         for num in nums:
-          # just to make sure consective nums start from prev num of the current
+          # just to make sure no consective nums start from prev num of the current
           if num - 1 not in nums:
             temp = num
             while temp in nums:
