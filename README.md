@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mugunthanraju/problem-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Mugunthanraju/problem-solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -37,6 +38,7 @@
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mugunthanraju/problem-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -84,6 +86,7 @@
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -132,4 +135,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mugunthanraju/problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
