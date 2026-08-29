@@ -4,14 +4,14 @@ class Solution:
       # return [x[0] for x in Counter(nums).most_common(k)]
 
       from collections import Counter
-      freq = Counter(nums)
+      freq_dict = Counter(nums)
       buckets = [[] for _ in range(len(nums) + 1)]
 
-      for x, f in freq.items():
-          buckets[f].append(x)
+      for element, freq in freq_dict.items():
+          buckets[freq].append(element)
 
       ans = []
-      for f in range(len(buckets) - 1, 0, -1):
-          ans.extend(buckets[f])
+      for freq in range(len(buckets) - 1, 0, -1):
+          ans.extend(buckets[freq])
           if len(ans) >= k:
               return ans[:k]
