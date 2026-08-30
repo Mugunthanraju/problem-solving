@@ -164,4 +164,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mugunthanraju/problem-solving/tree/main/0169-majority-element/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Mugunthanraju/problem-solving/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
