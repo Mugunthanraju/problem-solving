@@ -1,21 +1,16 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         
-        if len(s) != len(t):
-          return False
-        
-        sa = {}
-        ta = {}
+        s_to_t = {}
+        t_to_s = {}
 
-        for i in range(len(s)):
-          si = s[i]
-          ti = t[i]
+        for a, b in zip(s, t):
+            if (a in s_to_t and s_to_t[a] != b) or (b in t_to_s and t_to_s[b] != a):
+              return False
 
-          if sa.get(si) != ta.get(ti):
-            return False
+            s_to_t[a] = b
+            t_to_s[b] = a
 
-          sa[si] = i + 1
-          ta[ti] = i + 1
-        
         return True
+
       
