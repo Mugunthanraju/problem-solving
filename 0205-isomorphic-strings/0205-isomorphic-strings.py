@@ -14,8 +14,8 @@ class Solution:
           if sa[si] != ta[ti]:
             return False
 
-          sa[si] += 1
-          ta[ti] += 1
+          sa[si] = i + 1
+          ta[ti] = i + 1
         
         return True
       
