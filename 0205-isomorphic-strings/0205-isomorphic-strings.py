@@ -3,15 +3,15 @@ class Solution:
         
         if len(s) != len(t):
           return False
-
-        sa = [0] * 256
-        ta = [0] * 256
+        
+        sa = {}
+        ta = {}
 
         for i in range(len(s)):
-          si = ord(s[i])
-          ti = ord(t[i])
+          si = s[i]
+          ti = t[i]
 
-          if sa[si] != ta[ti]:
+          if sa.get(si) != ta.get(ti):
             return False
 
           sa[si] = i + 1
