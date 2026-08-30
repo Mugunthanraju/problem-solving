@@ -37,6 +37,7 @@
 | [0141-linked-list-cycle](https://github.com/Mugunthanraju/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mugunthanraju/problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Mugunthanraju/problem-solving/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mugunthanraju/problem-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
@@ -107,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Mugunthanraju/problem-solving/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Mugunthanraju/problem-solving/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mugunthanraju/problem-solving/tree/master/0443-string-compression) |
