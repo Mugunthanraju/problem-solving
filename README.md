@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Mugunthanraju/problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mugunthanraju/problem-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Mugunthanraju/problem-solving/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Mugunthanraju/problem-solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mugunthanraju/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -170,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Mugunthanraju/problem-solving/tree/main/0202-happy-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mugunthanraju/problem-solving/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
