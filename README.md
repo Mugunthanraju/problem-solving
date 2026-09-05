@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mugunthanraju/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mugunthanraju/problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Mugunthanraju/problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mugunthanraju/problem-solving/tree/main/0169-majority-element/) | Easy |
@@ -117,6 +118,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mugunthanraju/problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
 ## Linked List
 | Problem Name | Difficulty |
