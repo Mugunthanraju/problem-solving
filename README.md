@@ -16,6 +16,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mugunthanraju/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mugunthanraju/problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Mugunthanraju/problem-solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Mugunthanraju/problem-solving/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mugunthanraju/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mugunthanraju/problem-solving/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mugunthanraju/problem-solving/tree/main/0217-contains-duplicate/) | Easy |
@@ -121,6 +122,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Mugunthanraju/problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mugunthanraju/problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Mugunthanraju/problem-solving/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Mugunthanraju/problem-solving/tree/master/0392-is-subsequence) |
 ## Linked List
 | Problem Name | Difficulty |
