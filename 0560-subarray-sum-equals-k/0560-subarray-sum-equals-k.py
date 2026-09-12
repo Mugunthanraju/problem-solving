@@ -6,8 +6,7 @@ class Solution:
         for num in nums:
           total_sum += num
           difference = total_sum - k
-          if difference in prefix_sum:
-            sub_array_count += prefix_sum[difference]
+          sub_array_count += prefix_sum.get(difference, 0)
           prefix_sum[total_sum] = prefix_sum.get(total_sum, 0) + 1
 
         return sub_array_count
