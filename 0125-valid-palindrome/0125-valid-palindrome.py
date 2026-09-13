@@ -5,6 +5,7 @@ class Solution:
         end = len(s) - 1
 
         while start < end:
+          # Char should be alpha-numeric
 
           while start < end and not s[start].isalnum():
             start += 1
