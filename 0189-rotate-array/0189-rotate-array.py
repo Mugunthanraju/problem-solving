@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        def swaps(arr, start, end):
+        def reverse(arr, start, end):
           while start < end:
             arr[start], arr[end] = arr[end], arr[start]
             start += 1
@@ -12,6 +12,6 @@ class Solution:
         
         k %= len(nums)
 
-        swaps(nums, 0, len(nums) - 1)
-        swaps(nums, k, len(nums) - 1)
-        swaps(nums, 0, k - 1)
+        reverse(nums, 0, len(nums) - 1) # complete array
+        reverse(nums, k, len(nums) - 1) # from k to last
+        reverse(nums, 0, k - 1) # from 0 to before k
