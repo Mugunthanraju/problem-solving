@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mugunthanraju/problem-solving/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Mugunthanraju/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Mugunthanraju/problem-solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Mugunthanraju/problem-solving/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Mugunthanraju/problem-solving/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-boats-to-save-people](https://github.com/Mugunthanraju/problem-solving/tree/master/0917-boats-to-save-people) |
@@ -150,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mugunthanraju/problem-solving/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Mugunthanraju/problem-solving/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
