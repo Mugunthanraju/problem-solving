@@ -3,11 +3,11 @@ class Solution {
     
     int len = nums.length, sum, maxSum;
 
-    sum = Arrays.stream(nums, 0, k).sum();
-    maxSum = sum;
+    maxSum = Arrays.stream(nums, 0, k).sum();
+    sum = maxSum;
 
     for (int i = k; i < len; i++) {
-      sum = sum - nums[i - k] + nums[i];
+      sum += nums[i] - nums[i - k];
       maxSum = Math.max(maxSum, sum);
     }
 
