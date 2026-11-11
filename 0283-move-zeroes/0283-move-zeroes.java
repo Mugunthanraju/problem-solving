@@ -1,8 +1,7 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int left = 0, temp;
 
-        for (int right = 0; right < nums.length; right++) {
+        for (int right = 0, left = 0, temp; right < nums.length; right++) {
           if (nums[right] != 0) {
             temp = nums[right];
             nums[right] = nums[left];
