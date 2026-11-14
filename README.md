@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Mugunthanraju/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mugunthanraju/problem-solving/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Mugunthanraju/problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Mugunthanraju/problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mugunthanraju/problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mugunthanraju/problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mugunthanraju/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mugunthanraju/problem-solving/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Mugunthanraju/problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Mugunthanraju/problem-solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mugunthanraju/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Mugunthanraju/problem-solving/tree/main/0125-valid-palindrome/) | Easy |
@@ -127,6 +129,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Mugunthanraju/problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mugunthanraju/problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mugunthanraju/problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Mugunthanraju/problem-solving/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -192,4 +195,12 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mugunthanraju/problem-solving/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mugunthanraju/problem-solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Mugunthanraju/problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Mugunthanraju/problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
