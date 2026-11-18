@@ -3,7 +3,6 @@ class Solution {
         
       int maxCount = 0;
       Set<Character> unique = new HashSet<>();
-      char tmep;
 
       for (int right = 0, left = 0; right < s.length(); right++) {
         
